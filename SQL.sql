@@ -194,6 +194,8 @@ where status = 'Placed'
 where rs <=10
 
 
+
+	
 /* Procedure */
 
 CREATE PROCEDURE sp_genero_calculo

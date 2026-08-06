@@ -220,11 +220,3 @@ exec sp_executesql @sql
 end
 
 exec sp_genero_calculo 'genero', 'salário'
-
-
-
-
-
-
-
-
